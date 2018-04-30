@@ -1,7 +1,7 @@
 <!--
 
 Fill in the placeholders below. Delete any headings and placeholders that you do not fill in.
-PLEASE CHECK IF THIS ISSUSE HAS BEEN REPORTED BEFORE!
+PLEASE CHECK IF THIS ISSUE HAS BEEN REPORTED BEFORE!
 Make sure your title explains the issue well.
 
 If your issue is a CTD, please do the following things:
@@ -37,7 +37,7 @@ Are you missing any DLC (cosmetic DLC doesn't count)?
 
 
 **Log file:**
-<!-- If you have the log file: zip it before you drag & drop it here. Both error log and game log are usful to us.-->
+<!-- If you have the log file: zip it before you drag & drop it here. Both error log and game log are useful to us.-->
 
 **Screenshots / Video:**
 <!-- Drag & drop screenshots here. You can use https://vid.me or https://youtube.com to upload video. -->
