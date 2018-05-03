@@ -4,10 +4,13 @@ Fill in the placeholders below. Delete any headings and placeholders that you do
 PLEASE CHECK IF THIS ISSUE HAS BEEN REPORTED BEFORE!
 Make sure your title explains the issue well.
 
-If your issue is a CTD, please do the following things:
-1. Only report if didn't have any other mods running
-2. Have tried loading up the save at least one, it needs to crash repeatedly to be of any use to us.
-3. Make sure you include the game logs, found in C:\Users\NAME\Documents\Paradox Interactive\Hearts of Iron IV\logs, as well as the save
+Before you report a crash (CTD) issue, please ensure the following:
+1. You were not running any other mods (KR music mod is fine, others not made by the KR team are not - yes, this includes graphical mods and things you believe are harmless). No, disabling the mods for a game where you've been running with them active previously doesn't count. If you want to report it anyhow, that's fine, but please be honest about their use and know that we might reject the report if you're using mods we're unfamiliar with.
+2. That you have a save to include which crashes consistently (meaning: on each reload, within a reasonable time)
+3. Make sure you include the game log, found in C:\Users\NAME\Documents\Paradox Interactive\Hearts of Iron IV\logs
+4. That you have the checksum on hand - this is the four-letter code at the bottom of your title menu, and is vital for us to know if your files match ours.
+
+Thanks for your patience! We'll do our best to address the isssue, if we can.
 
 -->
 
@@ -17,12 +20,14 @@ If your issue is a CTD, please do the following things:
 **Quick questions:**
 
 OS:
-HOI4 version:
-KR4 version:
-Do you have this issue in vanilla?
+HoI4 version:
+Kaiserreich version:
+Using Steam?
 Were you in multiplayer?
-Were you running other mods (music mod doesn't count)?
-Are you missing any DLC (cosmetic DLC doesn't count)?
+List other mods used (including KR Music mod):
+Have you changed any files, outside of mods used?
+Checksum (four-letter code at the bottom of your title menu):
+Which DLC expansions do you NOT have?
 
 **Steps to reproduce:**
 
