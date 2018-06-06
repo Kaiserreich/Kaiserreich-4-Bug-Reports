@@ -1,5 +1,7 @@
 <!--
 
+Don't waste time filling in things not needed, if it is typo then clearly we don't need your save game, OS or anything like that, just give us the event and the typo. Use your common sense in working out what information is needed, though if unsure, er on the side of more rather than less.
+
 Fill in the placeholders below. Delete any headings and placeholders that you do not fill in.
 PLEASE CHECK IF THIS ISSUE HAS BEEN REPORTED BEFORE!
 Make sure your title explains the issue well.
