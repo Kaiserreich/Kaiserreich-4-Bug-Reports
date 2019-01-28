@@ -1,4 +1,4 @@
-# Kaiserreich Bug Tracker
+# Kaiserreich 4 Bug Tracker
 
 Welcome to the Kaiserreich GitHub, used for all your bug tracking needs!
 
