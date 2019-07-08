@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Bug
 about: Help us find and fix bugs
 title: Tag of Nation(s) Affected - Summary of Bug
 labels: Bug
