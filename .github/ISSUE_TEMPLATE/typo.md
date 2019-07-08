@@ -10,7 +10,7 @@ assignees: ''
 **Quick questions**
 HoI4 version:
 Kaiserreich version:
-List other mods used:
+List any other mods used:
 
 **Explanation of the issue:**
 
