@@ -1,5 +1,5 @@
 ---
-name: Typo Report
+name: Typo
 about: Fix those damn typos
 title: Tag of Nation(s) Affected - Summary of Typo
 labels: Typo
