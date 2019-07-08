@@ -14,7 +14,6 @@ Kaiserreich version:
 List any other mods used:
 Were you using Steam?
 Were you in multiplayer?
-List other mods used:
 Checksum (four-letter code at the bottom of your title menu):
 Which expansions do you NOT have?
 
