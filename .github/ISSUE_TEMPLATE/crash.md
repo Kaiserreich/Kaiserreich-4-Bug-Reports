@@ -1,6 +1,6 @@
 ---
 name: Crash
-about: Help us nail down crashes
+about: Assist us in tracking down crashes
 title: Tag of Nation(s) Affected - Summary of Crash
 labels: Crash
 assignees: ''
@@ -11,7 +11,8 @@ assignees: ''
 OS:
 HoI4 version:
 Kaiserreich version:
-Using Steam?
+List any other mods used:
+Were you using Steam?
 Were you in multiplayer?
 List other mods used:
 Checksum (four-letter code at the bottom of your title menu):
