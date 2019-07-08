@@ -1,5 +1,5 @@
 ---
-name: Crash Report
+name: Crash
 about: Help us nail down crashes
 title: Tag of Nation(s) Affected - Summary of Crash
 labels: Crash
