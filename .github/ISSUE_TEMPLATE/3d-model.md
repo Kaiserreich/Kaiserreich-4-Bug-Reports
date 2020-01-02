@@ -1,6 +1,6 @@
 ---
 name: 3D Model
-about: Anything to-do with 3D models
+about: For any issues affecting 3D models
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: 3D Model
 assignees: Gideones, Vidyaorszag
@@ -9,7 +9,7 @@ assignees: Gideones, Vidyaorszag
 
 **Quick questions**
 OS:
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 List any other mods used:
 Were you using Steam?

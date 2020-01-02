@@ -9,7 +9,7 @@ assignees: ''
 
 **Quick questions**
 OS:
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 List any other mods used:
 Were you using Steam?

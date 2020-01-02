@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Help us find and fix bugs
+about: Help us find and fix bugs, please use other issue reports if they are more specific about your issue
 title: Tag of Nation(s) Affected - Summary of Bug
 labels: Bug
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 
 **Quick questions**
 OS:
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 List any other mods used:
 Were you using Steam?

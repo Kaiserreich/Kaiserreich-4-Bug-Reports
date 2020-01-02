@@ -1,6 +1,6 @@
 ---
 name: Music
-about: Anything to-do with any of the music submods
+about: For any music related issues, be that in the main mod or any of the music submods
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: Music
 assignees: Drozdovite
@@ -9,7 +9,7 @@ assignees: Drozdovite
 
 **Quick questions**
 OS:
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 List any other mods used:
 Were you using Steam?

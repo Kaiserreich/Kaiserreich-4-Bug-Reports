@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Quick questions**
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 
 **Describe the change you would like:**

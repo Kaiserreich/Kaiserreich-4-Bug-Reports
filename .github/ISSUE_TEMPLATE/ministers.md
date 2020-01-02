@@ -1,6 +1,6 @@
 ---
 name: Ministers
-about: Anything to-do with a nations ministers
+about: For any minister related issues
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: Ministers
 assignees: PPsyrius
@@ -9,7 +9,7 @@ assignees: PPsyrius
 
 **Quick questions**
 OS:
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 List any other mods used:
 Were you using Steam?

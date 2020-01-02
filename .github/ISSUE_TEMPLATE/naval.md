@@ -1,6 +1,6 @@
 ---
 name: Naval
-about: Anything to-do with navies, naval tech or naval combat
+about: Any issues connected to the naval setup or technologies
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: Naval
 assignees: jankrajcovic, Pietrus69
@@ -9,7 +9,7 @@ assignees: jankrajcovic, Pietrus69
 
 **Quick questions**
 OS:
-HoI4 version:
+HOI4 version:
 Kaiserreich version:
 List any other mods used:
 Were you using Steam?
