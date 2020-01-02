@@ -1,12 +1,12 @@
-# Kaiserreich 4 Bug Tracker
+# Kaiserreich 4 Issue Tracker
 
-Welcome to the Kaiserreich GitHub, used for all your bug tracking needs!
+Welcome to the Kaiserreich GitHub, used for all your issue tracking needs!
 
-Bugs for both KR4 and the KR4 music mods are welcome here.
+Issues for both KR4 and the KR4 music mods are welcome here.
 
-Bugs for KRDH should go here: https://github.com/KR4/Kaiserreich-Darkest-Hour
+Issues for KRDH should go here: https://github.com/KR4/Kaiserreich-Darkest-Hour
 
-Bugs for the KRDH music pack should go here: https://github.com/KR4/Kaiserreich-Darkest-Hour-Music-Pack
+Issues for the KRDH music pack should go here: https://github.com/KR4/Kaiserreich-Darkest-Hour-Music-Pack
 
 Thanks for all your help!
 
