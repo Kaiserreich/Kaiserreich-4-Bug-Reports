@@ -10,4 +10,4 @@ Issues for the KRDH music pack should go here: https://github.com/KR4/Kaiserreic
 
 Thanks for all your help!
 
-- The KR team
+- The Kaiserreich team
