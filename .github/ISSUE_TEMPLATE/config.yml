@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Installation Issues
+    url: https://kaiserreich.fandom.com/wiki/How_to_do_a_Clean_Install
+    about: If you are having issues installing or running the mod, please follow the steps here
+  - name: Launcher Issues
+    url: https://kaiserreich.fandom.com/wiki/Troubleshooting_the_HOI4_Launcher
+    about: If you are having issues with the HOI4 launcher, please follow the steps here
