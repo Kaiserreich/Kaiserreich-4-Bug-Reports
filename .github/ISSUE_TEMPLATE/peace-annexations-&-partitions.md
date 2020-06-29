@@ -1,9 +1,9 @@
 ---
-name: Peace Conferences
-about: For any issues connected to peace conferences. This doesn't include annexation events
+name: Peace - Annexations & Partitions
+about: For any issues connected to annexation or partition events, though not peace conferences
 title: Tag of Nation(s) Affected - Summary of Issue
-labels: Peace Conferences
-assignees: 'Rylock'
+labels: Peace - Annexations & Partitions
+assignees: ''
 
 ---
 
