@@ -3,7 +3,7 @@ name: Map
 about: Any issues connected to the map or unit positions
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: Map
-assignees: ''
+assignees: 'Alpinia'
 
 ---
 
