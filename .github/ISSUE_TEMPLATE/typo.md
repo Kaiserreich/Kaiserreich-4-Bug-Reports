@@ -1,6 +1,6 @@
 ---
 name: Typo
-about: For minor typos, note that for full blown missing text the 'Bug' template should be used
+about: For minor typos, note that for fully missing text the 'Bug' label should be used
 title: Tag of Nation(s) Affected - Summary of Typo
 labels: Typo
 assignees: ''
