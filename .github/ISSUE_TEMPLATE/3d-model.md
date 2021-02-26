@@ -1,7 +1,6 @@
 ---
 name: 3D Model
-about: For any unit voice over or 3D models, be that in the main mod or any of the modelling submods
-Please make sure you installed [all the relevant modelling submods here](https://steamcommunity.com/workshop/filedetails/?id=1540696322) before reporting the missing 3D models
+about: For any unit voice over or 3D models, be that in the main mod or any of the modelling submods. Please make sure you installed all the relevant modelling submods before report the missing 3D models
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: 3D Model
 assignees: Gideones, Vidyaorszag, PPsyrius
