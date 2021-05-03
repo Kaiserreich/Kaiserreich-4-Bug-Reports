@@ -1,4 +1,4 @@
-# Kaiserreich for HoI4 Issue Tracker
+# Kaiserreich for HOI4 Issue Tracker
 
 Welcome to the Kaiserreich GitHub, used for all your issue tracking needs!
 
