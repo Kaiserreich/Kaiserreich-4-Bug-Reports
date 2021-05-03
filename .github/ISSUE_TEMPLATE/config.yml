@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Suggestion - Broad/Lore
+    url: https://www.reddit.com/r/Kaiserreich/
+    about: For broader suggestions, long form ideas or lore proposals, our Reddit is the best place to share them
   - name: Installation Issues
     url: https://kaiserreich.fandom.com/wiki/How_to_do_a_Clean_Install
     about: If you are having issues installing or running the mod, please follow the steps here
