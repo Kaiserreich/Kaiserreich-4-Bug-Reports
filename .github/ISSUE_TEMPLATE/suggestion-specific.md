@@ -1,6 +1,6 @@
 ---
 name: Suggestion - Specific
-about: Suggest a specific and actionable change to make the mod better. These suggestions should be under a paragraph in length, if what need significantly more than that, please see 'Suggestion - Broad/Lore' below
+about: Suggest a specific and actionable change to make the mod better. These suggestions should be under a paragraph in length, otherwise see 'Suggestion - Broad/Lore' below
 title: Tag of Nation(s) Affected - Summary of Suggestion
 labels: Suggestion - Specific
 assignees: ''
