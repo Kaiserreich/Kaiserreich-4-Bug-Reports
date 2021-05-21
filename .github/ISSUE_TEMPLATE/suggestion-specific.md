@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <details>
-<summary> **Please note** (click to expand) </summary>
+<summary>Please Note (click to expand)</summary>
 Suggestions that don't match this template will be closed. We understand this can seem harsh, but in order to ensure we are able to keep on track of bugs other serious issues it is vital our issue tracker is kept organised. The kinds of suggestions that will get close and directed elsewhere include, but are not limited to:
 - Anything that suggests adding new content
 - Anything that is focused around changing lore
