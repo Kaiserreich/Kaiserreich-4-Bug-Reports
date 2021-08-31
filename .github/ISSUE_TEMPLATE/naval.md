@@ -3,7 +3,7 @@ name: Naval
 about: Any issues connected to the naval setup or technologies
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: Naval
-assignees: jankrajcovic, Pietrus69
+assignees: Pietrus69
 
 ---
 
