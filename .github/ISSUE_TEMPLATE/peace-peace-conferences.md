@@ -3,7 +3,7 @@ name: Peace - Peace Conferences
 about: For any issues connected to peace conferences, though not annexation or partition events
 title: Tag of Nation(s) Affected - Summary of Issue
 labels: Peace - Peace Conferences
-assignees: 'Rylock'
+assignees: 'Alpinia'
 
 ---
 
