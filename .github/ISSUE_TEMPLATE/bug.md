@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Help us find and fix bugs. Please use other issue reports if they are more specific about your issue
-title: Tag of Nation(s) Affected - Summary of Bug
+title: Nation(s) Affected - Summary of Bug
 labels: Bug
 assignees: ''
 

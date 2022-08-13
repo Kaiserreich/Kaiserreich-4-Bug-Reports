@@ -1,7 +1,7 @@
 ---
 name: Suggestion - Specific
 about: Suggest a specific and actionable change about existing content. These suggestions should be under a paragraph in length, otherwise see 'Suggestion - Addition/Broad/Lore' below
-title: Tag of Nation(s) Affected - Summary of Suggestion
+title: Nation(s) Affected - Summary of Suggestion
 labels: Suggestion - Specific
 assignees: ''
 

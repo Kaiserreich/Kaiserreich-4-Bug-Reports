@@ -1,7 +1,7 @@
 ---
 name: In-game Crash
 about: Assist us in tracking down in-game crashes. For crashing while opening the mod, see 'Installation/Running Issues' below
-title: Tag of Nation(s) Affected - Summary of In-game Crash
+title: Nation(s) Affected - Summary of In-game Crash
 labels: Crash
 assignees: ''
 

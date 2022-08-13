@@ -1,7 +1,7 @@
 ---
 name: Peace - Annexations & Partitions
 about: For any issues connected to annexation or partition events, though not peace conferences
-title: Tag of Nation(s) Affected - Summary of Issue
+title: Nation(s) Affected - Summary of Issue
 labels: Peace - Annexations & Partitions
 assignees: 'Alpinia'
 

@@ -1,7 +1,7 @@
 ---
 name: Models and Voices
 about: For any issues affecting 3D models or unit voices, be that in the main mod or any of the modelling submods. Please make sure you have all the relevant model submods before reporting missing 3D models
-title: Tag of Nation(s) Affected - Summary of Issue
+title: Nation(s) Affected - Summary of Issue
 labels: Models and Voices
 assignees: Gideones, Vidyaorszag, PPsyrius
 

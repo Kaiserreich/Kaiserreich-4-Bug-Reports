@@ -1,7 +1,7 @@
 ---
 name: Grammar/Typo
 about: For minor text adjustments. For missing text the 'Bug' label should be used instead
-title: Tag of Nation(s) Affected - Summary of Typo
+title: Nation(s) Affected - Summary of Typo
 labels: Typo
 assignees: ''
 

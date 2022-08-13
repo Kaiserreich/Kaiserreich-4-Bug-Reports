@@ -1,7 +1,7 @@
 ---
 name: Music
 about: For any music related issues, be that in the main mod or any of the music submods
-title: Tag of Nation(s) Affected - Summary of Issue
+title: Nation(s) Affected - Summary of Issue
 labels: Music
 assignees: Starguard-sama
 
