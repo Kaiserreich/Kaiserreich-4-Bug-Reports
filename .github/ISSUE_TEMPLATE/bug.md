@@ -16,6 +16,11 @@ Were you using Steam?
 Were you in multiplayer?
 Which expansions do you NOT have?
 
+**Save file**
+
+
+**Logs** (At least game and error log)
+
 **Explanation of the issue:**
 
 
