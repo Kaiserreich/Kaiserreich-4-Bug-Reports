@@ -39,4 +39,4 @@ Which expansions do you NOT have?
 <!-- Drag & drop screenshots here. Use https://youtube.com to upload video. -->
 
 **Save game:**
-<!-- Zip it before you drag & drop it here. -->
+Attach a save from before the crash, ideally one where it always happens. A save file is necessary to be able to fix CTDs. Issues without saves will be closed.
