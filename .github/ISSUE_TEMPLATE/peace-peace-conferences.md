@@ -1,8 +1,8 @@
 ---
 name: Peace - Peace Conferences
-about: For any issues connected to peace conferences, though not annexation or partition events
+about: For any issues connected to the results of peace conferences
 title: Nation(s) Affected - Summary of Issue
-labels: Peace - Peace Conferences
+labels: Peace Conferences
 assignees: 'Alpinia'
 
 ---
