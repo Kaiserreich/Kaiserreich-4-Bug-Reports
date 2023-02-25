@@ -1,8 +1,8 @@
 ---
 name: Peace - Annexations & Partitions
-about: For any issues connected to annexation or partition events, though not peace conferences
+about: For any issues connected to Fate of X missions and events
 title: Nation(s) Affected - Summary of Issue
-labels: Peace - Annexations & Partitions
+labels: Annexations & Partitions
 assignees: 'Alpinia'
 
 ---
