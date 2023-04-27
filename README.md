@@ -1,12 +1,12 @@
 # Kaiserreich for HOI4 Issue Tracker
 
-Welcome to the Kaiserreich Issue Tracker, used for all your issue tracking needs! Issues for both the main mod and all the various submods are welcome here.
+You can submit bug reports and suggestions for both the main mod and all the various submods here.
 
-When reporting, please make sure to select the right template, and to carefully read the instructions given.
+When submitting a report, please make sure you select the correct template and read the instructions carefully.
 
-Please note that issues for KRDH should go here: https://github.com/Kaiserreich/Kaiserreich-DH
+[**> Submit a new issue report**](https://github.com/Kaiserreich/Kaiserreich-4-Bug-Reports/issues/new/choose)
 
-And that issues for the KRDH music pack should go here: https://github.com/Kaiserreich/Kaiserreich-DH-Music
+Please note that issues for [**KRDH**](https://github.com/Kaiserreich/Kaiserreich-DH) and the [**KRDH music pack**](https://github.com/Kaiserreich/Kaiserreich-DH-Music) are handled separately.
 
 Thanks for all your help!
 
