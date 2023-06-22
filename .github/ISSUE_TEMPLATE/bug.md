@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Quick questions**
+**Quick questions:**
 OS:
 HOI4 version:
 Kaiserreich version:
@@ -16,19 +16,19 @@ Were you using Steam?
 Were you in multiplayer?
 Which expansions do you NOT have?
 
-**Save file**
+**Save file:**
 
-Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder:
-C:\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\save games
+<!-- Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder:
+C:\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\save games 
 
-NOTE: due to how github handles files, saves will need to be uploaded as a zipped folder. This can be done by right-clicking and selecting the Send to > Compressed (zipped) folder option and it will create a new folder that can be uploaded to github
+NOTE: due to how github handles files, saves will need to be uploaded as a zipped folder. This can be done by right-clicking and selecting the Send to > Compressed (zipped) folder option and it will create a new folder that can be uploaded to github -->
 
-**Logs** (At least game and error log)
+**Logs:** (At least game and error log)
 
-Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder:
+<!-- Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder:
 C:\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs
 
-NOTE: The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game.
+NOTE: The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game. -->
 
 **Explanation of the issue:**
 
