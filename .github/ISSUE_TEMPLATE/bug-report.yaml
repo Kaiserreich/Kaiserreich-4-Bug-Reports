@@ -8,19 +8,19 @@ body:
       value: "## Quick Questions!"
   - type: input
     attributes:
-      label: OS:
+      label: OS
       description: What operating system were you using?
   - type: input
     attributes:
-      label: HOI4 Version:
+      label: HOI4 Version
       description: What version of Hearts of Iron IV were you playing on?
   - type: input
     attributes:
-      label: Kaiserreich Version:
+      label: Kaiserreich Version
       description: What version of Kaiserreich were you playing on?
   - type: input
     attributes:
-      label: List any other mods used:
+      label: List any other mods used
       description: Please list any other mods that you were using besides Kaiserreich
   - type: input
     attributes:
@@ -54,17 +54,17 @@ body:
       value: "## Bug Information:"
   - type: textarea
     attributes:
-      label: Explanation of the Issue:
+      label: Explanation of the Issue
       description: Please explain the behavior that you encountered
   - type: textarea
     attributes:
-      label: Steps to reproduce:
+      label: Steps to reproduce
       description: If possible, please explain step-by-step how to recreate this bug. Doing so greatly helps the Kaiserreich Team debug and solve your report.
   - type: textarea
     attributes:
-      label: Possible Cause:
+      label: Possible Cause
       description: If you have an idea what is the root cause of the issue, please enter it here. Doing so gives the Kaiserreich Team a good launch point to investigate this issue report.
   - type: textarea
     attributes:
-      label: Screenshots:
+      label: Screenshots
       description: If you have any screenshots of the issue, post them in this box to help show the Kaiserreich Team what the issue is.
