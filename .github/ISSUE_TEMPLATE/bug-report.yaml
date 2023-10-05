@@ -43,7 +43,7 @@ body:
     attributes:
       label: Log Files
       description: arrow list with log files info
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: Important Files Attached
       options:
