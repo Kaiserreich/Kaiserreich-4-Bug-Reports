@@ -38,7 +38,7 @@ body:
         label: Man the Guns (MtG)
         label: La Resistance (LaR)
         label: Battle for the Bosporus (BftB)
-        label: No Step Back (NSB)
+        label: "No" Step Back (NSB)
         label: By Blood Alone (BBA)
         label: Arms Against Tyranny (AAT)
   - type: markdown
