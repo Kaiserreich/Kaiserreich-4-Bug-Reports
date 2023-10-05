@@ -28,27 +28,19 @@ body:
   - type: input
     attributes:
       label: Were you in multiplayer?
-  - type: input
-    attributes:
-      label: Which expansions do you NOT have?
-      description: Please list all of the Hearts of Iron IV expansions that you do not have
-  - type: markdown
-    attributes:
-      value: "## Important Files:"
-  - type: textarea
-    attributes:
-      label: Save File
-      description: Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\save games** *NOTE* due to how github handles files, saves will need to be uploaded as a zipped folder. This can be done by right-clicking and selecting the Send to > Compressed (zipped) folder option and it will create a new folder that can be uploaded to github
-  - type: textarea
-    attributes:
-      label: Log Files
-      description: Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs** *NOTE* The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game.
   - type: checkboxes
     attributes:
-      label: Important Files Attached
+      label: Which expansions do you NOT have?
       options:
-      - label: I have attached the game/error logs and a save to go with this report. I understand that failure to do so will likely result in automatic closure of this issue if not enough information is included to determine the cause of this issue.
-        required: true
+        label: Together for Victory (TfV)
+        label: Death or Dishonor (DoD)
+        label: Waking the Tiger (WtT)
+        label: Man the Guns (MtG)
+        label: La Resistance (LaR)
+        label: Battle for the Bosporus (BftB)
+        label: No Step Back (NSB)
+        label: By Blood Alone (BBA)
+        label: Arms Against Tyranny (AAT)
   - type: markdown
     attributes:
       value: "## Bug Information:"
@@ -68,3 +60,20 @@ body:
     attributes:
       label: Screenshots
       description: If you have any screenshots of the issue, post them in this box to help show the Kaiserreich Team what the issue is.
+  - type: markdown
+    attributes:
+      value: "## Important Files:"
+  - type: textarea
+    attributes:
+      label: Save File
+      description: Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\save games** *NOTE* due to how Github handles files, saves will need to be uploaded as a zipped folder. This can be done by right-clicking and selecting the Send to > Compressed (zipped) folder option and it will create a new folder that can be uploaded to Github.
+  - type: textarea
+    attributes:
+      label: Log Files
+      description: Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs** *NOTE* The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game.
+  - type: checkboxes
+    attributes:
+      label: Important Files Attached
+      options:
+      - label: I have attached the game/error logs and a save to go with this report. I understand that failure to do so will likely result in automatic closure of this issue if not enough information is included to determine the cause of this issue.
+        required: true
