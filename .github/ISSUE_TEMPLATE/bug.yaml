@@ -1,0 +1,70 @@
+name: Bug Report
+description: Help us find and fix bugs. Please use other issue reports if they are more specific about your issue
+title: Nation(s) Affected - Summary of Bug
+labels: Bug
+body:
+  - type: markdown
+    attributes:
+      value: "## Quick Questions!"
+  - type: input
+    attributes:
+      label: OS:
+      description: What operating system were you using?
+  - type: input
+    attributes:
+      label: HOI4 Version:
+      description: What version of Hearts of Iron IV were you playing on?
+  - type: input
+    attributes:
+      label: Kaiserreich Version:
+      description: What version of Kaiserreich were you playing on?
+  - type: input
+    attributes:
+      label: List any other mods used:
+      description: Please list any other mods that you were using besides Kaiserreich
+  - type: input
+    attributes:
+      label: Were you using Steam?
+  - type: input
+    attributes:
+      label: Were you in multiplayer?
+  - type: input
+    attributes:
+      label: Which expansions do you NOT have?
+      description: Please list all of the Hearts of Iron IV expansions that you do not have
+  - type: markdown
+    attributes:
+      value: "## Important Files:"
+  - type: textarea
+    attributes:
+      label: Save File
+      description: arrow list with save file info
+  - type: textarea
+    attributes:
+      label: Log Files
+      description: arrow list with log files info
+  - type: checkbox
+    attributes:
+      label: Important Files Attached
+      options:
+      - label: I have attached the game/error logs and a save to go with this report. I understand that failure to do so will likely result in automatic closure of this issue if not enough information is included to determine the cause of this issue.
+        required: true
+  - type: markdown
+    attributes:
+      value: "## Bug Information:"
+  - type: textarea
+    attributes:
+      label: Explanation of the Issue:
+      description: Please explain the behavior that you encountered
+  - type: textarea
+    attributes:
+      label: Steps to reproduce:
+      description: If possible, please explain step-by-step how to recreate this bug. Doing so greatly helps the Kaiserreich Team debug and solve your report.
+  - type: textarea
+    attributes:
+      label: Possible Cause:
+      description: If you have an idea what is the root cause of the issue, please enter it here. Doing so gives the Kaiserreich Team a good launch point to investigate this issue report.
+  - type: textarea
+    attributes:
+      label: Screenshots:
+      description: If you have any screenshots of the issue, post them in this box to help show the Kaiserreich Team what the issue is.
