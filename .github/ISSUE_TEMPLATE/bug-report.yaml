@@ -32,15 +32,15 @@ body:
     attributes:
       label: Which expansions do you NOT have?
       options:
-        label: Together for Victory (TfV)
-        label: Death or Dishonor (DoD)
-        label: Waking the Tiger (WtT)
-        label: Man the Guns (MtG)
-        label: La Resistance (LaR)
-        label: Battle for the Bosporus (BftB)
-        label: "No" Step Back (NSB)
-        label: By Blood Alone (BBA)
-        label: Arms Against Tyranny (AAT)
+        label: "Together for Victory"
+        label: "Death or Dishonor"
+        label: "Waking the Tiger"
+        label: "Man the Guns"
+        label: "La Resistance"
+        label: "Battle for the Bosporus"
+        label: "No Step Back"
+        label: "By Blood Alone"
+        label: "Arms Against Tyranny"
   - type: markdown
     attributes:
       value: "## Bug Information:"
