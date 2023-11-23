@@ -3,7 +3,7 @@ name: Music
 about: For any music related issues, be that in the main mod or any of the music submods
 title: Nation(s) Affected - Summary of Issue
 labels: Music
-assignees: Starguard-sama
+assignees: emwe39, PurpleJinjo, shoutium
 
 ---
 
