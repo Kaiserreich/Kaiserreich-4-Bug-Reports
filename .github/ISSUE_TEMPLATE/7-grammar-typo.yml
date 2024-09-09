@@ -1,0 +1,55 @@
+name: Grammar/Typo
+description: For minor text adjustments. Missing/broken text or larger problems should use the 'Bug' label instead.
+title: Country Name or Tag - Summary of Typo
+labels: 'Typo'
+body:
+  - type: markdown
+    attributes:
+      value: "## Basic Information:"
+  - type: input
+    id: operating_system
+    attributes:
+      label: OS
+      description: What operating system were you using?
+    validations:
+      required: true
+  - type: input
+    id: hoi4_version
+    attributes:
+      label: HOI4 Version
+      description: |
+        Write the **full version number** of Hearts of Iron IV that you were playing on - you can find it in the bottom of the game's main menu, for example "Bolivar v.1.14.8.6eb9 (743d)".
+        **SPECIFY THE VERSION NUMBER - DO NOT SIMPLY WRITE IN "CURRENT", "LATEST", ETC.**
+    validations:
+      required: true
+  - type: input
+    id: kr_version
+    attributes:
+      label: Kaiserreich Version
+      description: |
+        Write the **full version number** of Kaiserreich that you were playing on - for example, 1.2 or 1.1.4.
+        **SPECIFY THE VERSION NUMBER - DO NOT SIMPLY WRITE IN "CURRENT", "LATEST", ETC.**
+    validations:
+      required: true
+  - type: input
+    id: other_mods
+    attributes:
+      label: Other Mods
+      description: Please write down **any and all** other mods that you were using besides Kaiserreich itself and/or its official music/model submods.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Issue Information:"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Issue
+      description: Please post a screenshot of and/or or describe the typo that you encountered.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If you have any screenshots of the issue, post them in this box to help show the Kaiserreich Team what the issue is.

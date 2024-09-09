@@ -1,0 +1,101 @@
+name: Suggestion - Specific
+description: Suggest a specific and actionable change about existing content. These suggestions should be under a paragraph in length, otherwise see 'Suggestion - Addition/Broad/Lore' below.
+title: Country Name or Tag - Summary of Suggestion
+labels: 'Suggestion - Specific'
+body:
+  - type: markdown
+    attributes:
+      value: "## Please Note"
+  - type: markdown
+    attributes:
+      value: |
+        Suggestions that don't match this template will be closed. We understand this can seem harsh, but in order to ensure we are able to keep on track of bugs other serious issues it is vital our issue tracker is kept organised. The kinds of suggestions that will get close and directed elsewhere include, but are not limited to:
+        - Anything that suggests adding new content
+        - Anything that will take a significant amount of time to implement
+        - Anything that isn't specific and actionable change about existing content, as the template specifies
+        Please know that this isn't out of any disrespect for the ideas you might have for the mod, and encourage people with a passion to get involved either on the subreddit, the discord or even via joining the team itself. But that being said, suggestions that don't match this template will be closed.
+  - type: markdown
+    attributes:
+      value: "## Basic Information:"
+  - type: input
+    id: operating_system
+    attributes:
+      label: OS
+      description: What operating system were you using?
+    validations:
+      required: true
+  - type: input
+    id: hoi4_version
+    attributes:
+      label: HOI4 Version
+      description: |
+        Write the **full version number** of Hearts of Iron IV that you were playing on - you can find it in the bottom of the game's main menu, for example "Bolivar v.1.14.8.6eb9 (743d)".
+        **SPECIFY THE VERSION NUMBER - DO NOT SIMPLY WRITE IN "CURRENT", "LATEST", ETC.**
+    validations:
+      required: true
+  - type: input
+    id: kr_version
+    attributes:
+      label: Kaiserreich Version
+      description: |
+        Write the **full version number** of Kaiserreich that you were playing on - for example, 1.2 or 1.1.4.
+        **SPECIFY THE VERSION NUMBER - DO NOT SIMPLY WRITE IN "CURRENT", "LATEST", ETC.**
+    validations:
+      required: true
+  - type: input
+    id: other_mods
+    attributes:
+      label: Other Mods
+      description: Please list **any and all** other mods that you were using besides Kaiserreich itself and/or its official music/model submods
+    validations:
+      required: true
+  - type: dropdown
+    id: steam
+    attributes:
+      label: Were you using Steam?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
+    id: multiplayer
+    attributes:
+      label: Were you in multiplayer?
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: checkboxes
+    id: dlcs
+    attributes:
+      label: Which DLCs do you NOT have? (Ignore this question if you have all listed ones)
+      options:
+        - label: Man the Guns
+        - label: La Résistance
+        - label: No Step Back
+        - label: By Blood Alone
+        - label: Arms Against Tyranny
+  - type: markdown
+    attributes:
+      value: "## Issue Information:"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the specific change you would like.
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Explain the reasoning behind this actionable change.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Images
+      description: If you have any screenshots/images relevant to this suggestion, post them here.

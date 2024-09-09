@@ -1,0 +1,130 @@
+name: Models and Voices
+description: For any issues affecting 3D models or unit voices, be that in the main mod or any of the modelling submods. Please make sure you have all the relevant model submods before reporting missing 3D models
+title: Country Name or Tag - Summary of Issue
+labels: 'Models and Voices'
+assignees: Pelmen323,Vidyaorszag,PPsyrius
+body:
+  - type: markdown
+    attributes:
+      value: "## Basic Information:"
+  - type: input
+    id: operating_system
+    attributes:
+      label: OS
+      description: What operating system were you using?
+    validations:
+      required: true
+  - type: input
+    id: hoi4_version
+    attributes:
+      label: HOI4 Version
+      description: |
+        Write the **full version number** of Hearts of Iron IV that you were playing on - you can find it in the bottom of the game's main menu, for example "Bolivar v.1.14.8.6eb9 (743d)".
+        **SPECIFY THE VERSION NUMBER - DO NOT SIMPLY WRITE IN "CURRENT", "LATEST", ETC.**
+    validations:
+      required: true
+  - type: input
+    id: kr_version
+    attributes:
+      label: Kaiserreich Version
+      description: |
+        Write the **full version number** of Kaiserreich that you were playing on - for example, 1.2 or 1.1.4.
+        **SPECIFY THE VERSION NUMBER - DO NOT SIMPLY WRITE IN "CURRENT", "LATEST", ETC.**
+    validations:
+      required: true
+  - type: checkboxes
+    id: affected_submods
+    attributes:
+      label: Affected Submod(s)
+      description: Mark all music and/or model submods that this issue may affect.
+      options:
+        - label: Kaiserreich Models - Base Game
+        - label: Kaiserreich Models - Allied Armor
+        - label: Kaiserreich Models - Arms Against Tyranny
+        - label: Kaiserreich Models - Axis Armor
+        - label: Kaiserreich Models - Battle for the Bosporus
+        - label: Kaiserreich Models - By Blood Alone
+        - label: Kaiserreich Models - Eastern Front Planes Pack
+        - label: Kaiserreich Models - La Résistance
+        - label: Kaiserreich Models - Man the Guns
+        - label: Kaiserreich Models - No Step Back
+        - label: Kaiserreich Models - Trial of Allegiance
+    validations:
+      required: true
+  - type: input
+    id: other_mods
+    attributes:
+      label: Other Mods
+      description: Please list **any and all** other mods that you were using besides Kaiserreich itself and/or its official music/model submods
+    validations:
+      required: true
+  - type: dropdown
+    id: steam
+    attributes:
+      label: Were you using Steam?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
+    id: multiplayer
+    attributes:
+      label: Were you in multiplayer?
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: checkboxes
+    id: dlcs
+    attributes:
+      label: Which DLCs do you NOT have? (Ignore this question if you have all listed ones)
+      options:
+        - label: Man the Guns
+        - label: La Résistance
+        - label: No Step Back
+        - label: By Blood Alone
+        - label: Arms Against Tyranny
+  - type: markdown
+    attributes:
+      value: "## Issue Information:"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Issue
+      description: Please describe the issue that you encountered.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to Reproduce
+      description: If possible, please explain step-by-step how to recreate this bug. Doing so greatly helps the Kaiserreich Team debug and solve your report.
+  - type: textarea
+    id: cause
+    attributes:
+      label: Possible Cause
+      description: If you have an idea what is the root cause of the issue, please enter it here. Doing so gives the Kaiserreich Team a good launch point to investigate this issue report.
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If you have any screenshots of the issue, post them in this box to help show the Kaiserreich Team what the issue is.
+  - type: markdown
+    attributes:
+      value: "## Important Files:"
+  - type: textarea
+    id: save_file
+    attributes:
+      label: Save File
+      description: |
+        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\save games**
+        **NOTE*:* due to how Github handles files, saves will need to be uploaded as a zipped folder. This can be done by right-clicking and selecting the Send to > Compressed (zipped) folder option and it will create a new folder that can be uploaded to Github.
+  - type: textarea
+    id: log_files
+    attributes:
+      label: Log Files
+      description: |
+        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs**
+        **NOTE:** The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game.
