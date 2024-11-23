@@ -67,6 +67,7 @@ body:
         - label: No Step Back
         - label: By Blood Alone
         - label: Arms Against Tyranny
+        - label: Götterdämmerung
   - type: markdown
     attributes:
       value: "## Issue Information:"
