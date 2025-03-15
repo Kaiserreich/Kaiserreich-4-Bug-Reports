@@ -85,11 +85,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: cause
-    attributes:
-      label: Possible Cause
-      description: If you have an idea what is the root cause of the issue, please enter it here. Doing so gives the Kaiserreich Team a good launch point to investigate this issue report.
-  - type: textarea
     id: screenshots
     attributes:
       label: Screenshots
@@ -109,12 +104,12 @@ body:
     attributes:
       label: Log Files
       description: |
-        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs**
+        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs** (the most important ones are **game.log**, **error.log** and **system.log**)
         **NOTE:** The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game.
   - type: checkboxes
     attributes:
       label: Important Files Attached
       options:
-      - label: I have attached the game/error logs and a save to go with this report. I understand that failure to do so will likely result in automatic closure of this issue if not enough information was included to determine the cause of this issue.
+      - label: I have attached the game/error logs and/or a save to go with this report. I understand that failure to do so will likely result in automatic closure of this issue if not enough information was included to determine the cause of this issue.
     validations:
       required: true

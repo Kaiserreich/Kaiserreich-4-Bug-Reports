@@ -78,6 +78,7 @@ body:
         - label: No Step Back
         - label: By Blood Alone
         - label: Arms Against Tyranny
+        - label: Götterdämmerung
   - type: markdown
     attributes:
       value: "## Issue Information:"
@@ -93,11 +94,6 @@ body:
     attributes:
       label: Steps to Reproduce
       description: If possible, please explain step-by-step how to recreate this bug. Doing so greatly helps the Kaiserreich Team debug and solve your report.
-  - type: textarea
-    id: cause
-    attributes:
-      label: Possible Cause
-      description: If you have an idea what is the root cause of the issue, please enter it here. Doing so gives the Kaiserreich Team a good launch point to investigate this issue report.
   - type: textarea
     id: screenshots
     attributes:
@@ -118,5 +114,5 @@ body:
     attributes:
       label: Log Files
       description: |
-        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs**
+        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\logs** (the most important ones are **game.log**, **error.log** and **system.log**)
         **NOTE:** The log files are overwritten every time HOI4 is launched, so make sure to grab the log files before restarting the game.
