@@ -2,7 +2,7 @@ name: Models and Voices
 description: For any issues affecting 3D models or unit voices, be that in the main mod or any of the modelling submods. Please make sure you have all the relevant model submods before reporting missing 3D models
 title: Country Name or Tag - Summary of Issue
 labels: 'Models and Voices'
-assignees: Pelmen323,Vidyaorszag,PPsyrius
+assignees: Pelmen323
 body:
   - type: markdown
     attributes:
