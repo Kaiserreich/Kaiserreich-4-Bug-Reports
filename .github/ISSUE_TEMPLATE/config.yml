@@ -4,8 +4,8 @@ contact_links:
     url: https://www.reddit.com/r/Kaiserreich/
     about: For new content suggestions, long form ideas or lore proposals, our subreddit is the best place to share them
   - name: Installation/Running Issues
-    url: https://kaiserreich.fandom.com/wiki/How_to_do_a_Clean_Install
+    url: https://kaiserreich.wiki/How_to_do_a_Clean_Install
     about: If you are having issues installing or running the mod, please follow the steps here
   - name: Launcher Issues
-    url: https://kaiserreich.fandom.com/wiki/Troubleshooting_the_HOI4_Launcher
-    about: If you are having issues with the HOI4 launcher, please follow the steps here
+    url: https://kaiserreich.wiki/Troubleshooting_KR4
+    about: If you your mod fails to load, or you experience issues with the HOI4 launcher, please follow the steps here
