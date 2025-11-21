@@ -68,6 +68,7 @@ body:
         - label: By Blood Alone
         - label: Arms Against Tyranny
         - label: Götterdämmerung
+        - label: No Compromise, No Surrender
   - type: markdown
     attributes:
       value: "## Issue Information:"
