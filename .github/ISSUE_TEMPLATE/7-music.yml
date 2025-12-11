@@ -2,7 +2,7 @@ name: Music
 description: For any music related issues, be that in the main mod or any of the music submods.
 title: Country Name or Tag - Summary of Issue
 labels: 'Music'
-assignees: emwe39,PurpleJinjo,RuneNordling
+assignees: emwe39
 body:
   - type: markdown
     attributes:
