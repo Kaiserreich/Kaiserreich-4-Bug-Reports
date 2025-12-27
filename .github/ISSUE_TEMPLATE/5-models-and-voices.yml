@@ -39,7 +39,6 @@ body:
       description: Mark all music and/or model submods that this issue may affect.
       options:
         - label: Kaiserreich Models - Base Game
-        - label: Kaiserreich Models - Man the Guns
         - label: Kaiserreich Models - La Résistance
         - label: Kaiserreich Models - Battle for the Bosporus
         - label: Kaiserreich Models - No Step Back

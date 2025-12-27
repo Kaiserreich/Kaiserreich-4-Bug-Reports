@@ -61,7 +61,6 @@ body:
     attributes:
       label: Which DLCs do you NOT have? (Ignore this question if you have all listed ones)
       options:
-        - label: Man the Guns
         - label: La Résistance
         - label: No Step Back
         - label: By Blood Alone
