@@ -2,7 +2,7 @@ name: Annexations
 description: For any issues directly or indirectly connected to "Fate of X" decisions and events.
 title: Country Name or Tag - Summary of Issue
 labels: 'Annexations'
-assignees: 'Alpinia'
+assignees: 'SuperGreenBeans'
 body:
   - type: markdown
     attributes:

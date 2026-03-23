@@ -2,7 +2,7 @@ name: Map
 description: Any issues connected to state or province shapes, on-map building and division positions, straits, impassable lines, and so on.
 title: Country Name or Tag - Summary of Issue
 labels: 'Map'
-assignees: 'Alpinia'
+assignees: 'SuperGreenBeans'
 body:
   - type: markdown
     attributes:

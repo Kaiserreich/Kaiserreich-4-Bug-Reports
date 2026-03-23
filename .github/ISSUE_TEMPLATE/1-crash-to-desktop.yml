@@ -2,7 +2,7 @@ name: Crash to Desktop
 description: Assist us in tracking down in-game crashes. For crashing while opening the mod, see 'Installation/Running Issues' below.
 title: Country Name or Tag - Summary of CTD
 labels: 'Crash'
-assignees: 'Alpinia'
+assignees: 'SuperGreenBeans'
 body:
   - type: markdown
     attributes:

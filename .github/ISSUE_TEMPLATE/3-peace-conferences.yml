@@ -2,7 +2,7 @@ name: Peace Conferences
 description: For any issues connected to the results of in-game peace conferences.
 title: Country Name or Tag - Summary of Issue
 labels: 'Peace Conferences'
-assignees: 'Alpinia'
+assignees: 'SuperGreenBeans'
 body:
   - type: markdown
     attributes:
