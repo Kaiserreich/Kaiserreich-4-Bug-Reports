@@ -98,6 +98,15 @@ body:
     validations:
       required: true
   - type: textarea
+    id: crash_files
+    attributes:
+      label: Crash Files
+    description: |
+        Path locations may vary due to installation/hardware but for Windows users they can be found through your documents folder - **C\Users\USER\Documents\Paradox Interactive\Hearts of Iron IV\crashes**
+        **NOTE:** All the crash files of a particular crash are stored inside a folder in this directory. The folder name is always prefixed with hoi4 followed by the date of the crash and the local time. This folder should be uploaded as a zipped folder. This can be done by right-clicking and selecting the Send to > Compressed (zipped) folder option and it will create a new folder that can be uploaded to Github.
+    validations:
+      required: true
+  - type: textarea
     id: log_files
     attributes:
       label: Log Files
