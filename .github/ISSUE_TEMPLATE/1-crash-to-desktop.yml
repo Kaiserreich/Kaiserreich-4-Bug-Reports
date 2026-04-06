@@ -33,6 +33,14 @@ body:
     validations:
       required: true
   - type: input
+    id: checksum
+    attributes:
+      label: Checksum
+      description: |
+        This is the four-letter code at the bottom of your title menu. For example (agdc).
+      validations:
+        required: true
+  - type: input
     id: other_mods
     attributes:
       label: Other Mods
