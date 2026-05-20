@@ -2,6 +2,7 @@ name: Suggestion - Specific
 description: Suggest a specific and actionable change about existing content. These suggestions should be under a paragraph in length, otherwise see 'Suggestion - Addition/Broad/Lore' below.
 title: Country Name or Tag - Summary of Suggestion
 labels: 'Suggestion - Specific'
+type: Feature
 body:
   - type: markdown
     attributes:

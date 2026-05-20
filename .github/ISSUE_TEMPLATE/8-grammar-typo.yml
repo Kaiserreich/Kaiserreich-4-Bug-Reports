@@ -2,6 +2,7 @@ name: Grammar/Typo
 description: For minor text adjustments. Missing/broken text or larger problems should use the 'Bug' label instead.
 title: Country Name or Tag - Summary of Typo
 labels: 'Typo'
+type: Bug
 body:
   - type: markdown
     attributes:
