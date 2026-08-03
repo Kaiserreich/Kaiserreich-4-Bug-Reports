@@ -3,7 +3,7 @@ description: For any issues affecting 3D models or unit voices, be that in the m
 title: Country Name or Tag - Summary of Issue
 labels: 'Models and Voices'
 type: Bug
-assignees: Pelmen323
+assignees: Cosmo4378
 body:
   - type: markdown
     attributes:
